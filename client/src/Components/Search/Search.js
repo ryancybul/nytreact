@@ -17,7 +17,6 @@ const Search = props => (
     </div>
     <button onClick={props.handleFormSubmit} type="submit" className="btn btn-primary">Submit</button>
   </form>
-
 )
 
 export default Search;
